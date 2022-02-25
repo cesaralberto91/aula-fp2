@@ -9,10 +9,6 @@ import javax.faces.context.FacesContext;
 import javax.faces.view.ViewScoped;
 import javax.inject.Named;
 
-/**
- *
- * @author aluno
- */
 @Named
 @ViewScoped
 public class ExemploController implements Serializable {
